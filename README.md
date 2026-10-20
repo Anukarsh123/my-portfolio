@@ -32,3 +32,10 @@ python -m http.server 8000
 # Open in browser
 http://localhost:8000
 ```
+## 🌐 Live Portfolio
+
+🚀 **Explore my personal portfolio website:**
+
+🔗 [**View My Portfolio**](https://anukarsh123.github.io/my-portfolio/)
+
+Discover my projects, technical skills, certificates, education, and development journey.
