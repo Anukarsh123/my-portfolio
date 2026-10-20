@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5502,
+    "python-envs.pythonProjects": [
+        {
+            "path": "Reel_55-main/certificates/oneteam",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
